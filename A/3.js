@@ -1,0 +1,1 @@
+module.exports = {d:0,v:1,m:2}
