@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kunal-mohta/frontend-102/issues"
   },
-  "homepage": "https://github.com/kunal-mohta/frontend-102#readme"
+  "homepage": "https://github.com/kunal-mohta/frontend-102#readme",
+  "dependencies": {
+    "base-64": "^0.1.0"
+  }
 }
