@@ -4,8 +4,5 @@ module.exports = (a) => {
 			if((typeof a) == "string") resolve(true);
 			else resolve(false);
 		}, 1000);
-	})
-	.then(
-		result => console.log("Promise resolved to "+result)
-	);
+	});
 }
