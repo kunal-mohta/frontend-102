@@ -1,1 +1,1 @@
-module.exports = 42;
+module.exports = "I have completed part A! ;)";
